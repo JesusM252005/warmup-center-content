@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+
+.header {
+    background-color: antiquewhite;
+    padding: 40px;
+}
+
+
+.main {
+    background-color: aliceblue;
+    padding: 40px;
+}
+
+
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
